@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there
+
+- Blog (russian): https://zpix1.github.io/
+- Email: zpix-dev@list.ru
+- Telegram: @zpix1
+
 
 <!--
 **zpix1/zpix1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,6 @@
 ### Hi there
 
+- About me: https://zpix1.github.io/about-me/
 - Blog (russian): https://zpix1.github.io/
 - Email: zpix-dev@list.ru
 - Telegram: @zpix1

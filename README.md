@@ -1,9 +1,33 @@
-### Hi there
+### Hello there
 
-- About me: https://zpix1.github.io/about-me/
-- Blog (russian): https://zpix1.github.io/
-- Email: zpix-dev@list.ru
-- Telegram: @zpix1
+```JS
+const info = {
+  personal: {
+    firstName: "Ivan",
+    lastName: "Baksheev",
+    age: 20
+  },
+  education: {
+    university: "NSU",
+    degree: "bachelor",
+    startedAt: 2019,
+    endedAt: null
+  },
+  career: [{
+    company: "JetBrains",
+    position: "Software Developer",
+    startedAt: "September 2021",
+    endedAt: null
+  }],
+  interests: ["math", "programming", "computer security"],
+  technologies: ["JS/TS", "C/C++", "Python"],
+  links: {
+    telegram: "https://t.me/zpix1",
+    homePage: "https://zpix1.github.io/about-me/",
+    blog: "https://zpix1.github.io/"
+  }
+}
+```
 
 
 <!--

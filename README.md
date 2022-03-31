@@ -17,7 +17,7 @@ const info = {
     company: "JetBrains",
     position: "Software Developer",
     startedAt: "September 2021",
-    endedAt: null
+    endedAt: "March 2022"
   }],
   interests: ["math", "programming", "computer security"],
   technologies: ["JS/TS", "C/C++", "Python"],

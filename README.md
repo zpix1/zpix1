@@ -18,6 +18,11 @@ const info = {
     position: "Software Developer",
     startedAt: "September 2021",
     endedAt: "March 2022"
+  }, {
+    company: "Huawei R&D",
+    position: "Junior Engineer",
+    startedAt: "April 2022",
+    endedAt: null
   }],
   interests: ["math", "programming", "computer security"],
   technologies: ["JS/TS", "C/C++", "Python"],

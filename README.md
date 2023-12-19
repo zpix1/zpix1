@@ -7,12 +7,17 @@ const info = {
     lastName: "Baksheev",
     age: 22
   },
-  education: {
+  education: [{
     university: "NSU",
     degree: "bachelor",
     startedAt: 2019,
+    endedAt: 2023
+  }, {
+    university: "NSU",
+    degree: "master",
+    startedAt: 2023,
     endedAt: null
-  },
+  }],
   career: [{
     company: "JetBrains",
     position: "Software Developer",
@@ -20,7 +25,7 @@ const info = {
     endedAt: "March 2022"
   }, {
     company: "Huawei R&D",
-    position: "Junior Engineer",
+    position: "Software Engineer",
     startedAt: "April 2022",
     endedAt: null
   }],

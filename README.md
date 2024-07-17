@@ -5,7 +5,7 @@ const info = {
   personal: {
     firstName: "Ivan",
     lastName: "Baksheev",
-    age: 22
+    age: 23
   },
   education: [{
     university: "NSU",

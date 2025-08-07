@@ -5,7 +5,7 @@ const info = {
   personal: {
     firstName: "Ivan",
     lastName: "Baksheev",
-    age: 23
+    age: 24
   },
   education: [{
     university: "NSU",
@@ -16,7 +16,7 @@ const info = {
     university: "NSU",
     degree: "master",
     startedAt: 2023,
-    endedAt: null
+    endedAt: 2025
   }],
   career: [{
     company: "JetBrains",
@@ -27,6 +27,11 @@ const info = {
     company: "Huawei R&D",
     position: "Software Engineer",
     startedAt: "April 2022",
+    endedAt: "January 2025"
+  }, {
+    company: "1C",
+    position: "Software Engineer",
+    startedAt: "January 2025",
     endedAt: null
   }],
   interests: ["math", "programming", "computer security"],

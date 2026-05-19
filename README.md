@@ -35,7 +35,7 @@ const info = {
     endedAt: null
   }],
   interests: ["math", "programming", "computer security"],
-  technologies: ["JS/TS", "C/C++", "Python"],
+  technologies: ["JS/TS", "Java", "C/C++", "Python"],
   links: {
     telegram: "https://t.me/zpix1",
     homePage: "https://zpix1.github.io/about-me/",
